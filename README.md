@@ -1,2 +1,3 @@
-# notes-python
-Apuntes sobre python
+# Notas de estudio de python
+
+- [Temas básicos](basics.ipynb)
