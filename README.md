@@ -11,3 +11,4 @@ Eventualmente agregaré información que vaya tomando de otros sitios tales como
 Temas que iré viendo:
 
 - [Primeros pasos](basics.ipynb)
+- [Operadores aritméticos](operadores.ipynb)
