@@ -12,3 +12,4 @@ Temas que iré viendo:
 
 - [Primeros pasos](basics.ipynb)
 - [Operadores aritméticos](operadores.ipynb)
+- [Cadenas de texto](strings.ipynb)
